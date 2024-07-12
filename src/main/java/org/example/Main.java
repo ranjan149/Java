@@ -12,7 +12,7 @@ public class Main {
         //
         System.out.println(Fruits.APPLE.getPrice());
         System.out.println(12);
-
+        System.out.println("Testng Git");
     }
 
 }
