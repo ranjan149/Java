@@ -1,0 +1,13 @@
+{
+  "id": 123,
+  "name": "John",
+  "phoneNumber": [
+    "9800012312",
+    "90000123456"
+  ],
+  "Address": {
+    "country": "Nepal",
+    "state": "Bagmati",
+    "District": "Kathmandu"
+  }
+}
